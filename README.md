@@ -24,9 +24,6 @@ Python / Django / Django REST Framework / PostgreSQL / SQLite / Docker / Yandex.
   <a href="https://www.django-rest-framework.org" target="_blank" rel="noreferrer">
     <img src="https://www.django-rest-framework.org/img/favicon.ico" alt="drf" width="40" height="40"/>
   </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/112638163/233412781-a7930a05-73d4-4972-8e66-1cbb7e876e42.svg" alt="fastapi" width="40" height="40"/>
-  </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
