@@ -1,8 +1,6 @@
-### Hi there 👋
+### Начинающий Python разработчик.
 
-### 🧑🏻‍💻 Python Developer
-
-### 🔭 My portfolio:
+### Мои проекты сделанные в рамках учебы в Яндекс Практикуме:
 
 - [Foodgram social network](https://github.com/methodologyCode/foodgram-project-react)
 - [CI/CD API for social network YaMDb](https://github.com/methodologyCode/yamdb_final)
@@ -11,7 +9,7 @@
   
 - [Telegram Bot "Homework status"](https://github.com/methodologyCode/homework_bot)
 
-### 🌱 Languages and Tools:
+### Технологии:
 
 Python / Django / Django REST Framework / PostgreSQL / SQLite / Docker / Yandex.Cloud / Postman / HTML5 / CSS / Linux / Nginx / Pytest
 <div>
