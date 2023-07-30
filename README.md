@@ -1,6 +1,6 @@
 ### Начинающий Python разработчик.
 
-### Мои проекты сделанные в рамках учебы в Яндекс Практикуме:
+### Проекты на Django сделанные в рамках учебы в Яндекс Практикуме:
 
 - [Foodgram social network](https://github.com/methodologyCode/foodgram-project-react)
 - [CI/CD API for social network YaMDb](https://github.com/methodologyCode/yamdb_final)
@@ -9,10 +9,16 @@
   
 - [Telegram Bot "Homework status"](https://github.com/methodologyCode/homework_bot)
 
+### Проекты на FASTAPI:
+
+- [Бронирование отелей](https://github.com/methodologyCode/hotels_fastapi)
+- [Мини Блог](https://github.com/methodologyCode/simple_project)
+
 ### Технологии:
 
-Python / Django / Django REST Framework / PostgreSQL / SQLite / Docker / Yandex.Cloud / Postman / HTML5 / CSS / Linux / Nginx / Pytest
+Python / Django / Django REST Framework / FASTAPI / HTML5 / CSS / PostgreSQL / sqlalchemy / REDIS / Linux / Docker / Yandex.Cloud / Nginx
 <div>
+
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
@@ -48,8 +54,5 @@ Python / Django / Django REST Framework / PostgreSQL / SQLite / Docker / Yandex.
   </a>
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-  </a>
-  <a href="https://docs.pytest.org/en/7.3.x/" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/112638163/233413583-3a426d0a-f257-42cd-8b7c-4d1bc3e4d2c8.svg" alt="pytest" width="40" height="40"/>
   </a>
 </div>
