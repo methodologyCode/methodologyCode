@@ -9,14 +9,14 @@
   
 - [Telegram Bot "Homework status"](https://github.com/methodologyCode/homework_bot)
 
-### Проекты на FASTAPI:
+### Проекты на FastAPI:
 
 - [Бронирование отелей](https://github.com/methodologyCode/hotels_fastapi)
 - [Мини Блог](https://github.com/methodologyCode/simple_project)
 
 ### Технологии:
 
-Python / Django / Django REST Framework / FASTAPI / HTML5 / CSS / PostgreSQL / sqlalchemy / REDIS / Linux / Docker / Yandex.Cloud / Nginx
+Python / Django / Django REST Framework / FastAPI / HTML5 / CSS / PostgreSQL / sqlalchemy / REDIS / Linux / Docker / Yandex.Cloud / Nginx
 <div>
 
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
