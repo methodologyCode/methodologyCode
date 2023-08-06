@@ -1,6 +1,6 @@
-### Начинающий Python разработчик.
+### Python разработчик.
 
-### Проекты на Django сделанные в рамках учебы в Яндекс Практикуме:
+### Проекты на Django:
 
 - [Foodgram social network](https://github.com/methodologyCode/foodgram-project-react)
 - [CI/CD API for social network YaMDb](https://github.com/methodologyCode/yamdb_final)
