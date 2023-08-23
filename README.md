@@ -12,7 +12,8 @@
 ### Проекты на FastAPI:
 
 - [Бронирование отелей](https://github.com/methodologyCode/hotels_fastapi)
-- [Мини Блог](https://github.com/methodologyCode/simple_project)
+- [Мини Блог](https://github.com/methodologyCode/blog_fastapi)
+- [ToDo](https://github.com/methodologyCode/todo_fastapi)
 
 ### Технологии:
 
