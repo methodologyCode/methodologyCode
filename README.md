@@ -1,4 +1,4 @@
-### Python разработчик.
+### Python/Backend разработчик
 
 ### Проекты на Django:
 
