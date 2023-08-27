@@ -17,7 +17,7 @@
 
 ### Мини проекты на HTML/CSS/JS:
 
-- [Frontend](https://github.com/methodologyCode/html_practice)
+- [Frontend Projects](https://github.com/methodologyCode/html_practice)
 
 ### Технологии:
 
