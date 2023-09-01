@@ -1,5 +1,3 @@
-### Python/Backend разработчик
-
 ### Проекты на Django:
 
 - [Foodgram social network](https://github.com/methodologyCode/foodgram-project-react)
@@ -18,6 +16,10 @@
 ### Мини проекты на HTML/CSS/JS:
 
 - [Frontend Projects](https://github.com/methodologyCode/html_practice)
+
+### Мини проекты на чистом Javascript:
+- [Приложение для показа погоды](https://github.com/methodologyCode/weather_js)
+- [Слайдер](https://github.com/methodologyCode/slider_js)
 
 ### Технологии:
 
