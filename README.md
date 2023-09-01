@@ -12,14 +12,15 @@
 - [Бронирование отелей](https://github.com/methodologyCode/hotels_fastapi)
 - [Мини Блог](https://github.com/methodologyCode/blog_fastapi)
 - [ToDo](https://github.com/methodologyCode/todo_fastapi)
+- 
+### Мини проекты на чистом Javascript:
+
+- [Приложение для показа погоды](https://github.com/methodologyCode/weather_js)
+- [Слайдер](https://github.com/methodologyCode/slider_js)
 
 ### Мини проекты на HTML/CSS/JS:
 
 - [Frontend Projects](https://github.com/methodologyCode/html_practice)
-
-### Мини проекты на чистом Javascript:
-- [Приложение для показа погоды](https://github.com/methodologyCode/weather_js)
-- [Слайдер](https://github.com/methodologyCode/slider_js)
 
 ### Технологии:
 
