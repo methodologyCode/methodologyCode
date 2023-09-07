@@ -4,7 +4,6 @@
 - [CI/CD API for social network YaMDb](https://github.com/methodologyCode/yamdb_final)
 - [CRUD for YaTube](https://github.com/methodologyCode/api_final_yatube)
 - [Social network YaTube](https://github.com/methodologyCode/hw05_final)
-  
 - [Telegram Bot "Homework status"](https://github.com/methodologyCode/homework_bot)
 
 ### Проекты на FastAPI:
@@ -18,7 +17,7 @@
 
 - [Приложение для показа погоды](https://github.com/methodologyCode/weather_js)
 - [Слайдер](https://github.com/methodologyCode/slider_js)
-- [Filter юзеров](https://github.com/methodologyCode/filter_js)
+- [Фильтрация юзеров](https://github.com/methodologyCode/filter_js)
 
 ### Мини проекты на HTML/CSS/JS:
 
