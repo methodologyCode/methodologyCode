@@ -24,6 +24,6 @@
 - [Frontend Projects](https://github.com/methodologyCode/html_practice)
 
 ### Технологии:
-Python/Django rest framework/FastAPI/Asyncio(basic)/SQL/PostgreSQL/Sqlalchemy
+Python/Django rest framework/FastAPI/Asyncio(basic)/SQL/PostgreSQL/SqlAlchemy
 HTML/CSS/JavaScript(basic)/Linux/GitHub/Docker/Redis/Backend/REST API
 
