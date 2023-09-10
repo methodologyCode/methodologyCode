@@ -10,8 +10,8 @@
 
 - [Бронирование отелей](https://github.com/methodologyCode/hotels_fastapi)
 - [Система рассмотрения жалоб](https://github.com/methodologyCode/system_fastapi)
+- [Менеджер заданий](https://github.com/methodologyCode/task_fastapi)
 - [Мини Блог](https://github.com/methodologyCode/blog_fastapi)
-- [ToDo](https://github.com/methodologyCode/todo_fastapi)
   
 ### Мини проекты на чистом Javascript:
 
