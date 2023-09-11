@@ -19,11 +19,14 @@
 - [Слайдер](https://github.com/methodologyCode/slider_js)
 - [Фильтрация юзеров](https://github.com/methodologyCode/filter_js)
 
+### Вёрстка:
+- [Проекты](https://github.com/methodologyCode/layout)
+
 ### Мини проекты на HTML/CSS/JS:
 
 - [Frontend Projects](https://github.com/methodologyCode/html_practice)
 
 ### Технологии:
-Python/Django rest framework/FastAPI/Asyncio(basic)/SQL/PostgreSQL/SqlAlchemy
-HTML/CSS/JavaScript(basic)/Linux/GitHub/Docker/Redis/Backend/REST API
+Python/Django DRF/FastAPI/SqlAlchemy/Alembic/Asyncio(basic)/SQL/PostgreSQL
+HTML/CSS/FlexBox/JavaScript(basic)/Linux/GitHub/Docker/Redis/Backend/REST API
 
