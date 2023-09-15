@@ -22,10 +22,11 @@ HTML/CSS/FlexBox/JavaScript(basic)/Linux/GitHub/Docker/Redis/Backend/REST API
 - [Приложение для показа погоды](https://github.com/methodologyCode/weather_js)
 - [Слайдер](https://github.com/methodologyCode/slider_js)
 - [Фильтрация юзеров](https://github.com/methodologyCode/filter_js)
+- [Поиск и отображение значения слова](https://github.com/methodologyCode/search_word)
+- [Поиск и отображение картинок животного](https://github.com/methodologyCode/search_images)
 
 ### Вёрстка:
 - [Проекты](https://github.com/methodologyCode/layout)
 
 ### Мини проекты на HTML/CSS/JS:
 - [Frontend Projects](https://github.com/methodologyCode/html_practice)
-
