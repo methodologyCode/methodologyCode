@@ -4,9 +4,9 @@ HTML/CSS/FlexBox/JavaScript(basic)/Linux/GitHub/Docker/Redis/Backend/REST API
 
 ### Проекты на FastAPI:
 
-- [Бронирование отелей](https://github.com/methodologyCode/hotels_fastapi)(Асинхронность)
-- [Система рассмотрения жалоб](https://github.com/methodologyCode/system_fastapi)(Асинхронность)
-- [Менеджер заданий](https://github.com/methodologyCode/task_fastapi)(Асинхронность, Вебсокеты)
+- [Бронирование отелей](https://github.com/methodologyCode/hotels_fastapi) - [Асинхронность/SqlAlchemy/Alembic]
+- [Система рассмотрения жалоб](https://github.com/methodologyCode/system_fastapi) - [Асинхронность/SqlAlchemy/Alembic]
+- [Менеджер заданий](https://github.com/methodologyCode/task_fastapi) - [Асинхронность/Вебсокеты/SqlAlchemy]
 - [Мини Блог](https://github.com/methodologyCode/blog_fastapi)
 
 ### Проекты на Django:
