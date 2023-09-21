@@ -15,6 +15,10 @@ HTML/CSS/FlexBox/JavaScript(basic)/Linux/GitHub/Docker/Redis/Backend/REST API
 - [CI/CD API for social network YaMDb](https://github.com/methodologyCode/yamdb_final)
 - [CRUD for YaTube](https://github.com/methodologyCode/api_final_yatube)
 - [Social network YaTube](https://github.com/methodologyCode/hw05_final)
+
+### Telegram bot's.
+
+- [Telegram Bot "Магазин"](https://github.com/methodologyCode/tg_iogram)
 - [Telegram Bot "Homework status"](https://github.com/methodologyCode/homework_bot)
 
 ### Мини проекты на чистом Javascript:
