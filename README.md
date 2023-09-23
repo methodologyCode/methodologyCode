@@ -31,6 +31,3 @@ HTML/CSS/FlexBox/JavaScript(basic)/Linux/GitHub/Docker/Redis/Backend/REST API
 
 ### Вёрстка:
 - [Проекты](https://github.com/methodologyCode/layout)
-
-### Мини проекты на HTML/CSS/JS:
-- [Frontend Projects](https://github.com/methodologyCode/html_practice)
