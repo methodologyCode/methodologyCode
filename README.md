@@ -4,10 +4,10 @@ HTML/CSS/FlexBox/JavaScript(basic)/Linux/GitHub/Docker/Redis/Backend/REST API
 
 ### Проекты на FastAPI:
 
+- [Сервис записок](https://github.com/methodologyCode/notes_fastapi) - [Асинхронность/SqlAlchemy/Alembic/JS]
 - [Бронирование отелей](https://github.com/methodologyCode/hotels_fastapi) - [Асинхронность/SqlAlchemy/Alembic]
 - [Система рассмотрения жалоб](https://github.com/methodologyCode/system_fastapi) - [Асинхронность/SqlAlchemy/Alembic]
 - [Менеджер заданий](https://github.com/methodologyCode/task_fastapi) - [Асинхронность/Вебсокеты/SqlAlchemy/Alembic/Middleware]
-- [Мини Блог](https://github.com/methodologyCode/blog_fastapi)
 
 ### Проекты на Django:
 
