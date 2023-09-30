@@ -8,6 +8,7 @@ HTML/CSS/FlexBox/JavaScript(basic)/Linux/GitHub/Docker/Redis/Backend/REST API
 - [Менеджер заданий](https://github.com/methodologyCode/task_fastapi) - [Асинхронность/Вебсокеты/SqlAlchemy/Alembic/Middleware/Pytest]
 - [Бронирование отелей](https://github.com/methodologyCode/hotels_fastapi) - [Асинхронность/SqlAlchemy/Alembic]
 - [Система рассмотрения жалоб](https://github.com/methodologyCode/system_fastapi) - [Асинхронность/SqlAlchemy/Alembic/Roles]
+- [Конвертер валют](https://github.com/methodologyCode/exchange_fastapi) - [Асинхронность/Aiohttp]
 
 ### Проекты на Django:
 
