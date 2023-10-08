@@ -9,7 +9,7 @@ HTML/CSS/FlexBox/JavaScript(basic)/Linux/GitHub/Docker/Redis/Backend/REST API
 - [Бронирование отелей](https://github.com/methodologyCode/hotels_fastapi) - [Асинхронность/SqlAlchemy/Alembic]
 - [Система рассмотрения жалоб](https://github.com/methodologyCode/system_fastapi) - [Асинхронность/SqlAlchemy/Alembic/Roles]
 - [Конвертер валют](https://github.com/methodologyCode/exchange_fastapi) - [Асинхронность/Aiohttp]
-- [Закладки](https://github.com/methodologyCode/bookmarks_fastapi) - [Request/Beautifulsoup/Логирование/Тесты]
+- [Закладки](https://github.com/methodologyCode/bookmarks_fastapi) - [Requests/Beautifulsoup/Логирование/Тесты]
 
 ### Проекты на Django:
 
