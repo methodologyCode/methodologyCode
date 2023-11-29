@@ -10,6 +10,7 @@ HTML/CSS/FlexBox/JavaScript(basic)/Linux/GitHub/Docker/Redis/Backend/REST API
 - [Система рассмотрения жалоб](https://github.com/methodologyCode/system_fastapi) - [Асинхронность/SqlAlchemy/Alembic/Roles]
 - [Конвертер валют](https://github.com/methodologyCode/exchange_fastapi) - [Асинхронность/Aiohttp]
 - [Закладки](https://github.com/methodologyCode/bookmarks_fastapi) - [Requests/Beautifulsoup/Логирование/Тесты]
+- [Обработка формы](https://github.com/methodologyCode/form_test_fastapi) - [TinyDB/Tests]
 
 ### Проекты на Django:
 
