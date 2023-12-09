@@ -22,6 +22,7 @@ HTML/CSS/FlexBox/JavaScript(basic)/Linux/GitHub/Docker/Redis/Backend/REST API
 ### Парсеры и Telegram bot's.
 
 - [Async Парсер Фото](https://github.com/methodologyCode/photos_parsing)
+- [Парсинг Selenium](https://github.com/methodologyCode/selenium_parsing)
 - [Парсер Многоступенчатый](https://github.com/methodologyCode/parsing_regions)
 - [Парсер Категорий](https://github.com/methodologyCode/parsing_landing)
 - [Парсер новостей](https://github.com/methodologyCode/parser_news)
