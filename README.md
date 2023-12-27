@@ -18,6 +18,7 @@ HTML/CSS/FlexBox/JavaScript(basic)/Linux/GitHub/Docker/Redis/Backend/REST API
 - [CI/CD API for social network YaMDb](https://github.com/methodologyCode/yamdb_final)
 - [CRUD for YaTube](https://github.com/methodologyCode/api_final_yatube)
 - [Social network YaTube](https://github.com/methodologyCode/hw05_final)
+- [Django/Stripe/JS](https://github.com/methodologyCode/stripe_django)
 
 ### Парсеры и Telegram bot's.
 
