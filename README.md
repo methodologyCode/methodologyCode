@@ -3,7 +3,6 @@ Python/Django DRF/FastAPI/SqlAlchemy/Alembic/Asyncio(basic)/SQL/PostgreSQL
 HTML/CSS/FlexBox/JavaScript(basic)/Linux/GitHub/Docker/Redis/Backend/REST API
 
 ### Проекты на FastAPI:
-
 - [Сервис записок](https://github.com/methodologyCode/notes_fastapi) - [Асинхронность/SqlAlchemy/Alembic/JS]
 - [Менеджер заданий](https://github.com/methodologyCode/task_fastapi) - [Асинхронность/Вебсокеты/SqlAlchemy/Alembic/Middleware/Pytest]
 - [Бронирование отелей](https://github.com/methodologyCode/hotels_fastapi) - [Асинхронность/SqlAlchemy/Alembic]
@@ -13,7 +12,6 @@ HTML/CSS/FlexBox/JavaScript(basic)/Linux/GitHub/Docker/Redis/Backend/REST API
 - [Обработка формы](https://github.com/methodologyCode/form_test_fastapi) - [TinyDB/Tests]
 
 ### Проекты на Django:
-
 - [Foodgram social network](https://github.com/methodologyCode/foodgram-project-react)
 - [CI/CD API for social network YaMDb](https://github.com/methodologyCode/yamdb_final)
 - [CRUD for YaTube](https://github.com/methodologyCode/api_final_yatube)
@@ -21,7 +19,6 @@ HTML/CSS/FlexBox/JavaScript(basic)/Linux/GitHub/Docker/Redis/Backend/REST API
 - [Django/Stripe/JS](https://github.com/methodologyCode/stripe_django)
 
 ### Парсеры и Telegram bot's.
-
 - [Паттерн стратегия на примере парсера](https://github.com/methodologyCode/pyth_strategy)
 - [Async Парсер Фото](https://github.com/methodologyCode/photos_parsing)
 - [Парсинг Selenium](https://github.com/methodologyCode/selenium_parsing)
@@ -31,8 +28,11 @@ HTML/CSS/FlexBox/JavaScript(basic)/Linux/GitHub/Docker/Redis/Backend/REST API
 - [Парсер видеокарт(WB)](https://github.com/methodologyCode/parser_wb_videocard)
 - [Telegram Bot "Homework status"](https://github.com/methodologyCode/homework_bot)
 
-### Мини проекты на чистом Javascript:
+### Проекты на PHP:
+- [ToDo, PHP+JS](https://github.com/methodologyCode/php_todo)
+- [Паттерн Стратегия](https://github.com/methodologyCode/php_weather_strategy)
 
+### Мини проекты на чистом Javascript:
 - [Приложение для показа погоды](https://github.com/methodologyCode/weather_js)
 - [Слайдер](https://github.com/methodologyCode/slider_js)
 - [Фильтрация юзеров](https://github.com/methodologyCode/filter_js)
