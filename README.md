@@ -29,6 +29,7 @@ HTML/CSS/FlexBox/JavaScript(basic)/Linux/GitHub/Docker/Redis/Backend/REST API
 - [Telegram Bot "Homework status"](https://github.com/methodologyCode/homework_bot)
 
 ### Проекты на PHP:
+- [Фотогалерея, PHP+JS](https://github.com/methodologyCode/php_gallery)
 - [ToDo, PHP+JS](https://github.com/methodologyCode/php_todo)
 - [Паттерн Стратегия](https://github.com/methodologyCode/php_weather_strategy)
 
