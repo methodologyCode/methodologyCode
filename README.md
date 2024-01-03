@@ -3,10 +3,11 @@ Python/Django DRF/FastAPI/SqlAlchemy/Alembic/Asyncio(basic)/SQL/PostgreSQL
 HTML/CSS/FlexBox/JavaScript(basic)/Linux/GitHub/Docker/Redis/Backend/REST API
 
 ### Проекты на FastAPI:
-- [Сервис записок](https://github.com/methodologyCode/notes_fastapi) - [Асинхронность/SqlAlchemy/Alembic/JS]
+- [ToDo/Repository+UnitOfWork](https://github.com/methodologyCode/fastapi_todo) - [Асинхронность/PostgreSQL/Alembic/JS]
 - [Менеджер заданий](https://github.com/methodologyCode/task_fastapi) - [Асинхронность/Вебсокеты/SqlAlchemy/Alembic/Middleware/Pytest]
 - [Бронирование отелей](https://github.com/methodologyCode/hotels_fastapi) - [Асинхронность/SqlAlchemy/Alembic]
 - [Система рассмотрения жалоб](https://github.com/methodologyCode/system_fastapi) - [Асинхронность/SqlAlchemy/Alembic/Roles]
+- [Сервис записок](https://github.com/methodologyCode/notes_fastapi) - [Асинхронность/SqlAlchemy/Alembic/JS]
 - [Конвертер валют](https://github.com/methodologyCode/exchange_fastapi) - [Асинхронность/Aiohttp]
 - [Закладки](https://github.com/methodologyCode/bookmarks_fastapi) - [Requests/Beautifulsoup/Логирование/Тесты]
 - [Обработка формы](https://github.com/methodologyCode/form_test_fastapi) - [TinyDB/Tests]
