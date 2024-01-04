@@ -19,7 +19,7 @@ HTML/CSS/FlexBox/JavaScript(basic)/Linux/GitHub/Docker/Redis/Backend/REST API
 - [Social network YaTube](https://github.com/methodologyCode/hw05_final)
 - [Django/Stripe/JS](https://github.com/methodologyCode/stripe_django)
 
-### Парсеры и Telegram bot's.
+### Парсеры:
 - [Паттерн стратегия на примере парсера](https://github.com/methodologyCode/pyth_strategy)
 - [Async Парсер Фото](https://github.com/methodologyCode/photos_parsing)
 - [Парсинг Selenium](https://github.com/methodologyCode/selenium_parsing)
