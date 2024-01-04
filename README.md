@@ -31,6 +31,7 @@ HTML/CSS/FlexBox/JavaScript(basic)/Linux/GitHub/Docker/Redis/Backend/REST API
 
 ### Проекты на PHP:
 - [Фотогалерея, PHP+JS](https://github.com/methodologyCode/php_gallery)
+- [Парсинг WB, PHP+JS](https://github.com/methodologyCode/php_wb)
 - [ToDo, PHP+JS](https://github.com/methodologyCode/php_todo)
 - [Паттерн Стратегия](https://github.com/methodologyCode/php_weather_strategy)
 
